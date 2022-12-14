@@ -1,10 +1,10 @@
-# Installation
-- Install xampp
-- Clone this project
-- Put the project in the htdocs folder
-- Open any browser
-- Visit -> http://localhost/pds/
-- Now you will see the project. :)
+# Personal Data Sheet
+
+The Personal Data Sheet (PDS) is the official information sheet that all government employees and officials must accomplish and submit, and serves as the main supporting document for all government appointments. The PDS requires government employees to truthfully disclose their personal information as well as their educational background, civil service eligibility, work experience, involvement in voluntary organizations, training programs attended, and other relevant information.
+
+The Personal Data Sheet is considered a sworn statement that should be attested to under oath by the employee or applicant and witnessed by a person who is authorized to administer the oath.
+
+Reference: https://techpilipinas.com/personal-data-sheet/
 
 # Project Information
 
@@ -16,11 +16,13 @@ Desktop View: \
 Mobile View: \
 ![pds-mobile](https://user-images.githubusercontent.com/74645297/207719220-d785fcd5-650e-4e14-ab8f-d304adf53305.gif)
 
-# Personal Data Sheet
+# Installation
+- Install xampp
+- Clone this project
+- Put the project in the htdocs folder
+- Open any browser
+- Visit -> http://localhost/pds/
+- Now you will see the project. :)
 
-The Personal Data Sheet (PDS) is the official information sheet that all government employees and officials must accomplish and submit, and serves as the main supporting document for all government appointments. The PDS requires government employees to truthfully disclose their personal information as well as their educational background, civil service eligibility, work experience, involvement in voluntary organizations, training programs attended, and other relevant information.
 
-The Personal Data Sheet is considered a sworn statement that should be attested to under oath by the employee or applicant and witnessed by a person who is authorized to administer the oath.
-
-Reference: https://techpilipinas.com/personal-data-sheet/
 
