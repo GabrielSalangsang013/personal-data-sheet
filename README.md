@@ -2,10 +2,10 @@
 
 This is a responsive webpage Personal Data Sheet. I used HTML, CSS, JS and PHP.
 
-Desktop View:
+Desktop View: \
 ![pds-desktop](https://user-images.githubusercontent.com/74645297/207719132-ae24f87e-9180-4a2b-8d27-5f82076cb127.gif)
 
-Mobile View:
+Mobile View: \
 ![pds-mobile](https://user-images.githubusercontent.com/74645297/207719220-d785fcd5-650e-4e14-ab8f-d304adf53305.gif)
 
 # Personal Data Sheet
