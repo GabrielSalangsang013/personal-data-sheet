@@ -19,7 +19,8 @@ Mobile View: \
 # Installation
 - Install xampp
 - Clone this project
-- Put the project in the htdocs folder
+- Put the pds folder (A.K.A the project folder) in the xampp -> htdocs folder
+- Run xampp, the apache server
 - Open any browser
 - Visit -> http://localhost/pds/
 - Now you will see the project. :)
