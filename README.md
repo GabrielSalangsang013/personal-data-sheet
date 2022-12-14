@@ -3,10 +3,10 @@
 This is a responsive webpage Personal Data Sheet. I used HTML, CSS, JS and PHP.
 
 Desktop View:
-https://user-images.githubusercontent.com/74645297/207718494-2639b3c4-b607-4c54-931c-3c3eaff7c809.mp4
+![pds-desktop](https://user-images.githubusercontent.com/74645297/207719132-ae24f87e-9180-4a2b-8d27-5f82076cb127.gif)
 
 Mobile View:
-https://user-images.githubusercontent.com/74645297/207718625-bcf8f5da-b1e2-4e5c-9dbe-e57d1212b3a7.mp4
+![pds-mobile](https://user-images.githubusercontent.com/74645297/207719220-d785fcd5-650e-4e14-ab8f-d304adf53305.gif)
 
 # Personal Data Sheet
 
