@@ -1,3 +1,11 @@
+# Installation
+- Install xampp
+- Clone this project
+- Put the project in the htdocs folder
+- Open any browser
+- Visit -> [http:](http://localhost/pds/)
+- Now you will see the project. :)
+
 # Project Information
 
 This is a responsive webpage Personal Data Sheet. I used HTML, CSS, JS and PHP.
