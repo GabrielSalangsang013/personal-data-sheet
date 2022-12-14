@@ -3,7 +3,7 @@
 - Clone this project
 - Put the project in the htdocs folder
 - Open any browser
-- Visit -> [http:](http://localhost/pds/)
+- Visit -> http://localhost/pds/
 - Now you will see the project. :)
 
 # Project Information
