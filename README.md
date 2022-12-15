@@ -17,7 +17,7 @@ Mobile View: \
 ![pds-mobile](https://user-images.githubusercontent.com/74645297/207719220-d785fcd5-650e-4e14-ab8f-d304adf53305.gif)
 
 # Installation
-- Install xampp
+- Install XAMPP
 - Clone this project
 - Put the pds folder (A.K.A the project folder) in the xampp -> htdocs folder
 - Open XAMPP, then start the Apache server
