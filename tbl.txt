@@ -1,1 +1,0 @@
-CREATE TABLE `dbpdf`.`tblpdf` ( `ID` INT NOT NULL AUTO_INCREMENT , `Surname` VARCHAR(50) NOT NULL , `Firstname` VARCHAR(50) NOT NULL , `MiddleName` VARCHAR(50) NOT NULL , `info` JSON NOT NULL , PRIMARY KEY (`ID`)) ENGINE = InnoDB;
